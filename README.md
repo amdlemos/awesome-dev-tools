@@ -9,8 +9,9 @@
 - [headlessui](#headlessui)
 - [pico css](#pico-css)
 - [11ty](#11ty)
-- [astro](#astro)
-- [nextjs](#nextjs)
+- [Astro](#astro)
+- [Next.js](#nextjs)
+- [NextUI](#nextui)
 - [Ant Design](#ant-design)
 - [web components](web-components)
 
@@ -46,12 +47,15 @@ A minimalist and lightweight starter kit that prioritizes semantic syntax, makin
 ## [11ty](https://www.11ty.dev/)
 Eleventy is a simpler static site generator
 
-## [astro](https://astro.build/)
+## [Astro](https://astro.build/)
 Astro is a website build tool for the modern web —
 powerful developer experience meets lightweight output.
 
-## [nextjs](https://nextjs.org/)
+## [Next.js](https://nextjs.org/)
 Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.
+
+## [NextUI](https://nextui.org/)
+Beautiful, fast and modern React UI library.
 
 ## [Ant Design](https://ant.design/)
 An enterprise-class UI design language and React UI library.
