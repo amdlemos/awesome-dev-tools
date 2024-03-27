@@ -11,6 +11,7 @@
 - [11ty](#11ty)
 - [astro](#astro)
 - [nextjs](#nextjs)
+- [Ant Design](#ant-design)
 - [web components](web-components)
 
 ## [PandaCSS](https://panda-css.com/)
@@ -51,6 +52,9 @@ powerful developer experience meets lightweight output.
 
 ## [nextjs](https://nextjs.org/)
 Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.
+
+## [Ant Design](https://ant.design/)
+An enterprise-class UI design language and React UI library.
 
 ## [web components](https://www.webcomponents.org/)
 Web components are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps. Custom components and widgets build on the Web Component standards, will work across modern browsers, and can be used with any JavaScript library or framework that works with HTML.
