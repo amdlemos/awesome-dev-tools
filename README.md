@@ -10,4 +10,4 @@
 - [pico css](https://picocss.com/)
 - [11ty](https://www.11ty.dev/)
 - [astro](https://astro.build/)
-
+- [web components](https://www.webcomponents.org/)
