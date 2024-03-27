@@ -1,4 +1,18 @@
 # Tools/Component Library
+- [PandaCSS](#pandacss)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [daisyUI](https://daisyui.com/)
+- [Radix](https://www.radix-ui.com/)
+- [MUI](https://mui.com/)
+- [tailwindUI](https://tailwindui.com/)
+- [chakra-ui](https://chakra-ui.com/)
+- [headlessui](https://headlessui.com/)
+- [pico css](https://picocss.com/)
+- [11ty](https://www.11ty.dev/)
+- [astro](https://astro.build/)
+- [web components](https://www.webcomponents.org/)
+- [nextjs](https://nextjs.org/)
+
 ## [PandaCSS](https://panda-css.com/)
 Panda is a universal styling solution for the modern web —
 build time, type safe, and scalable CSS-in-JS
