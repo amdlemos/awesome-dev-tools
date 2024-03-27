@@ -5,13 +5,13 @@
 - [Radix](#radix)
 - [MUI](#mui)
 - [tailwindUI](#tailwindui)
-- [chakra-ui](https://chakra-ui.com/)
-- [headlessui](https://headlessui.com/)
-- [pico css](https://picocss.com/)
-- [11ty](https://www.11ty.dev/)
-- [astro](https://astro.build/)
-- [web components](https://www.webcomponents.org/)
-- [nextjs](https://nextjs.org/)
+- [chakra-ui](#chakra-ui)
+- [headlessui](#headlessui)
+- [pico css](#pico-css)
+- [11ty](#11ty)
+- [astro](#astro)
+- [nextjs](#nextjs)
+- [web components](web-components)
 
 ## [PandaCSS](https://panda-css.com/)
 Panda is a universal styling solution for the modern web —
@@ -45,7 +45,6 @@ Eleventy is a simpler static site generator
 Astro is a website build tool for the modern web —
 powerful developer experience meets lightweight output.
 
+## [nextjs](https://nextjs.org/)
 
 ## [web components](https://www.webcomponents.org/)
-
-## [nextjs](https://nextjs.org/)
