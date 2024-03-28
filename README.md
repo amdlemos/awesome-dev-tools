@@ -1,6 +1,6 @@
 # Tools/Component Library
 - [PandaCSS](#pandacss)
-- [pico css](#pico-css)
+- [Pico CSS](#pico-css)
 - [Lightning CSS](#lightning-css)
 - [shadcn/ui](#shadcnui)
 - [daisyUI](#daisyui)
@@ -20,7 +20,7 @@
 Panda is a universal styling solution for the modern web —
 build time, type safe, and scalable CSS-in-JS
 
-## [pico css](https://picocss.com/)
+## [Pico CSS](https://picocss.com/)
 A minimalist and lightweight starter kit that prioritizes semantic syntax, making every HTML element responsive and elegant by default.
 
 ## [Lightning CSS](https://lightningcss.dev/)
