@@ -14,7 +14,8 @@
 - [Next.js](#nextjs)
 - [NextUI](#nextui)
 - [Ant Design](#ant-design)
-- [web components](web-components)
+- [web components]#(web-components)
+- [Bun](#bun)
 
 ## [PandaCSS](https://panda-css.com/)
 Panda is a universal styling solution for the modern web —
@@ -66,3 +67,6 @@ An enterprise-class UI design language and React UI library.
 
 ## [web components](https://www.webcomponents.org/)
 Web components are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps. Custom components and widgets build on the Web Component standards, will work across modern browsers, and can be used with any JavaScript library or framework that works with HTML.
+
+## [Bun](https://bun.sh/)
+Bun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called bun.
