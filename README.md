@@ -6,7 +6,7 @@
 - [Pico CSS](#pico-css)
 - [Lightning CSS](#lightning-css)
 
-##Component Library
+## Component Library
 
 - [Radix](#radix)
 - [shadcn/ui](#shadcnui)
